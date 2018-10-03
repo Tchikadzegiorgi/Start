@@ -1,0 +1,99 @@
+/* class */
+.inline-block {
+	display: inline-block;
+	vertical-align: middle;
+}
+.clear {
+	clear: both;
+}
+.float-left{
+	float: left;
+}
+.float-right {
+	float: right;
+}
+.color-blue { color: blue;border-left: 3px solid black;}
+.color-red { color: red }
+.color-grey { color: grey }
+
+.conteiner {
+max-width: 1100px;
+margin:0px auto;
+width: 100%;
+}
+.block { display: block;}
+
+/* class */
+/*header */
+.header {
+	background-color: white; 
+}
+.header-conteiner{
+	
+	background-color: white;
+}
+.logo {
+	width: 100px;
+}
+.acolor { color: #31909b;
+	font-size: 25px;
+	font-weight: bold;
+	padding-right: 20px;
+}
+.socia {
+	font-size: 25px;
+	
+}
+.right-box {
+	padding: 30px 0px;
+}
+.margin-right { 
+
+border-right: 3px solid black;
+padding-right: 20px;
+padding-left:20px;
+ }
+ .padding-l-r {
+ 	padding-right: 20px;
+padding-left:20px;
+ }
+ .center-bar { margin-right: 250px;
+font-size:40px;
+ }
+.acolor:hover {color:red;}
+/*header */
+
+/*banerr */
+.banner-wrapper { background-color: grey ; 
+	padding: 30px 0px ; 
+                    
+}
+.banner-img { 
+width: 100%; 
+ }
+
+
+
+/*banerr */
+
+/*video */
+.video-wrapper { 
+background-color: yellow;
+padding: 30px 0px;
+font-size: 25px;
+
+ }
+.video-wrapper .video-block {
+width: 520px;
+height: 320px;
+background-color: white;
+  }
+.video-wrapper  p {
+	padding-bottom: 30px
+}
+
+
+
+
+
+/*video */
